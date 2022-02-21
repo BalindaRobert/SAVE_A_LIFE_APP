@@ -9,7 +9,7 @@ import 'package:flutterfire_ui/auth.dart';
 class Authenticate extends StatelessWidget {
   const Authenticate({Key? key}) : super(key: key);
 
-  // final Product product;
+  // final Product Product;
   @override
   Widget build(BuildContext context) {
     return StreamBuilder<User?>(
